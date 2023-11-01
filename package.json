@@ -12,13 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node": "16.16.0",
     "@hocuspocus/extension-database": "^2.7.1",
     "@hocuspocus/server": "^2.7.1",
     "express": "^4.18.2",
     "mongoose": "^7.6.4",
     "nodemon": "^3.0.1",
     "sqlite3": "^5.1.6",
-    "node": "^16.0.0",
     "y-websocket": "^1.5.0",
     "yjs": "^13.6.8"
   }
